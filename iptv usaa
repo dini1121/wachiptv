@@ -1,0 +1,553 @@
+ #EXTM3U
+#EXTINF:-1,Uk | Bbc1
+http://formen1.com:8080/live/ada70/7070s/1142.ts
+#EXTINF:-1,Uk | Bbc2
+http://formen1.com:8080/live/ada70/7070s/1141.ts
+#EXTINF:-1,Uk | Bbc Earth
+http://formen1.com:8080/live/ada70/7070s/1140.ts
+#EXTINF:-1,Uk | Cbsaction
+http://formen1.com:8080/live/ada70/7070s/1136.ts
+#EXTINF:-1,Uk | Cbsdrama
+http://formen1.com:8080/live/ada70/7070s/1137.ts
+#EXTINF:-1,Uk | Cbsreality
+http://formen1.com:8080/live/ada70/7070s/1138.ts
+#EXTINF:-1,Uk | Channel4
+http://formen1.com:8080/live/ada70/7070s/1135.ts
+#EXTINF:-1,Uk | Channel5
+http://formen1.com:8080/live/ada70/7070s/1134.ts
+#EXTINF:-1,Uk | Comedycentral
+http://formen1.com:8080/live/ada70/7070s/1133.ts
+#EXTINF:-1,Uk | Discovery Science Hd
+http://formen1.com:8080/live/ada70/7070s/1127.ts
+#EXTINF:-1,Uk | Discovery Turbo Hd
+http://formen1.com:8080/live/ada70/7070s/1126.ts
+#EXTINF:-1,Uk | Discoverychannelhd
+http://formen1.com:8080/live/ada70/7070s/1130.ts
+#EXTINF:-1,Uk | Discoveryshed
+http://formen1.com:8080/live/ada70/7070s/1128.ts
+#EXTINF:-1,Uk | Disneychannel
+http://formen1.com:8080/live/ada70/7070s/1131.ts
+#EXTINF:-1,Uk | Disneyjunior
+http://formen1.com:8080/live/ada70/7070s/1132.ts
+#EXTINF:-1,Uk | Dmax.
+http://formen1.com:8080/live/ada70/7070s/1100.ts
+#EXTINF:-1,Uk | Eurosport1
+http://formen1.com:8080/live/ada70/7070s/1095.ts
+#EXTINF:-1,Uk | Eurosport 2
+http://formen1.com:8080/live/ada70/7070s/1094.ts
+#EXTINF:-1,Uk | Itv1
+http://formen1.com:8080/live/ada70/7070s/1146.ts
+#EXTINF:-1,Uk | Itv2
+http://formen1.com:8080/live/ada70/7070s/1145.ts
+#EXTINF:-1,Uk | Itv3
+http://formen1.com:8080/live/ada70/7070s/1144.ts
+#EXTINF:-1,Uk | Itv4
+http://formen1.com:8080/live/ada70/7070s/1143.ts
+#EXTINF:-1,Uk | Movies 4men
+http://formen1.com:8080/live/ada70/7070s/1111.ts
+#EXTINF:-1,Uk | Nationalgeographic
+http://formen1.com:8080/live/ada70/7070s/1124.ts
+#EXTINF:-1,Uk | Racing
+http://formen1.com:8080/live/ada70/7070s/1116.ts
+#EXTINF:-1,Uk | Rte One
+http://formen1.com:8080/live/ada70/7070s/1104.ts
+#EXTINF:-1,Uk | Rte Two
+http://formen1.com:8080/live/ada70/7070s/1103.ts
+#EXTINF:-1,Uk | Yesterday
+http://formen1.com:8080/live/ada70/7070s/1102.ts
+
+#EXTINF:-1,USA:  NBA TV HD
+http://51.68.204.11:8080/turan40/turan40/20143
+#EXTINF:-1,USA: A&E HD
+http://51.68.204.11:8080/turan40/turan40/20164
+#EXTINF:-1,USA: ABC FAMILY/SPARK
+http://51.68.204.11:8080/turan40/turan40/20125
+#EXTINF:-1,USA: ABC HD
+http://51.68.204.11:8080/turan40/turan40/20151
+#EXTINF:-1,USA: ABC News
+http://51.68.204.11:8080/turan40/turan40/20123
+#EXTINF:-1,USA: ABC NEWS HD
+http://51.68.204.11:8080/turan40/turan40/20152
+#EXTINF:-1,USA: ABC News SD
+http://51.68.204.11:8080/turan40/turan40/20124
+#EXTINF:-1,USA: ABC Spark
+http://51.68.204.11:8080/turan40/turan40/20126
+#EXTINF:-1,USA: AFN News
+http://51.68.204.11:8080/turan40/turan40/20101
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://51.68.204.11:8080/turan40/turan40/20102
+#EXTINF:-1,USA: AFN Prime Pacific
+http://51.68.204.11:8080/turan40/turan40/20103
+#EXTINF:-1,USA: AFN Sports
+http://51.68.204.11:8080/turan40/turan40/20057
+#EXTINF:-1,USA: AFN Sports 2
+http://51.68.204.11:8080/turan40/turan40/20056
+#EXTINF:-1,USA: AFN Sports HD
+http://51.68.204.11:8080/turan40/turan40/20058
+#EXTINF:-1,USA: AMC
+http://51.68.204.11:8080/turan40/turan40/20109
+#EXTINF:-1,USA: AMC HD
+http://51.68.204.11:8080/turan40/turan40/20131
+#EXTINF:-1,USA: ANIMAL PLANET
+http://51.68.204.11:8080/turan40/turan40/20074
+#EXTINF:-1,USA: ANIMAL PLANET HD
+http://51.68.204.11:8080/turan40/turan40/20209
+#EXTINF:-1,USA: BBC WORLD NEWS
+http://51.68.204.11:8080/turan40/turan40/20002
+#EXTINF:-1,USA: Bein Sports USA HD
+http://51.68.204.11:8080/turan40/turan40/20230
+#EXTINF:-1,USA: BET ( B.E.T - Black Entertainment Television )
+http://51.68.204.11:8080/turan40/turan40/20098
+#EXTINF:-1,USA: BET HER
+http://51.68.204.11:8080/turan40/turan40/20097
+#EXTINF:-1,USA: Big Ten Network HD
+http://51.68.204.11:8080/turan40/turan40/20024
+#EXTINF:-1,USA: Bloomberg Europe
+http://51.68.204.11:8080/turan40/turan40/20207
+#EXTINF:-1,USA: Bloomberg TV
+http://51.68.204.11:8080/turan40/turan40/20193
+#EXTINF:-1,USA: BNN
+http://51.68.204.11:8080/turan40/turan40/20206
+#EXTINF:-1,USA: Boomerang
+http://51.68.204.11:8080/turan40/turan40/20205
+#EXTINF:-1,USA: Bounce TV
+http://51.68.204.11:8080/turan40/turan40/20121
+#EXTINF:-1,USA: BOX OFFICE MOVIES
+http://51.68.204.11:8080/turan40/turan40/20018
+#EXTINF:-1,USA: Bravo HD
+http://51.68.204.11:8080/turan40/turan40/20106
+#EXTINF:-1,USA: BRAVO HD(1)
+http://51.68.204.11:8080/turan40/turan40/20153
+#EXTINF:-1,USA: BYU TV
+http://51.68.204.11:8080/turan40/turan40/20132
+#EXTINF:-1,USA: C Toon Kids
+http://51.68.204.11:8080/turan40/turan40/20022
+#EXTINF:-1,USA: C-Span 1
+http://51.68.204.11:8080/turan40/turan40/20210
+#EXTINF:-1,USA: C-SPAN 1 HD
+http://51.68.204.11:8080/turan40/turan40/20007
+#EXTINF:-1,USA: C-Span 2
+http://51.68.204.11:8080/turan40/turan40/20211
+#EXTINF:-1,USA: C-SPAN 2 HD
+http://51.68.204.11:8080/turan40/turan40/20006
+#EXTINF:-1,USA: C-Span 3
+http://51.68.204.11:8080/turan40/turan40/20212
+#EXTINF:-1,USA: C-SPAN 3 HD
+http://51.68.204.11:8080/turan40/turan40/20005
+#EXTINF:-1,USA: CALIFORNIA MUSIC CHANNEL
+http://51.68.204.11:8080/turan40/turan40/20062
+#EXTINF:-1,USA: CAPITAL TV
+http://51.68.204.11:8080/turan40/turan40/20192
+#EXTINF:-1,USA: Cartoon Network HD
+http://51.68.204.11:8080/turan40/turan40/20092
+#EXTINF:-1,USA: CBS
+http://51.68.204.11:8080/turan40/turan40/20154
+#EXTINF:-1,USA: CBS HD-US
+http://51.68.204.11:8080/turan40/turan40/20115
+#EXTINF:-1,USA: CBS News
+http://51.68.204.11:8080/turan40/turan40/20114
+#EXTINF:-1,USA: CBSN HD
+http://51.68.204.11:8080/turan40/turan40/20134
+#EXTINF:-1,USA: CBSN News
+http://51.68.204.11:8080/turan40/turan40/20113
+#EXTINF:-1,USA: Cinemax 5 Max
+http://51.68.204.11:8080/turan40/turan40/20021
+#EXTINF:-1,USA: Cinemax 5 Star Max
+http://51.68.204.11:8080/turan40/turan40/20003
+#EXTINF:-1,USA: Cinemax 5 StarMax
+http://51.68.204.11:8080/turan40/turan40/20231
+#EXTINF:-1,USA: CINEMAX ACTION HD
+http://51.68.204.11:8080/turan40/turan40/20213
+#EXTINF:-1,USA: Cinemax ActionMax
+http://51.68.204.11:8080/turan40/turan40/20009
+#EXTINF:-1,USA: Cinemax ActionMax East
+http://51.68.204.11:8080/turan40/turan40/20232
+#EXTINF:-1,USA: Cinemax East
+http://51.68.204.11:8080/turan40/turan40/20233
+#EXTINF:-1,USA: Cinemax East HD
+http://51.68.204.11:8080/turan40/turan40/20204
+#EXTINF:-1,USA: Cinemax Moremax
+http://51.68.204.11:8080/turan40/turan40/20091
+#EXTINF:-1,USA: CMT HD
+http://51.68.204.11:8080/turan40/turan40/20063
+#EXTINF:-1,USA: CNBC
+http://51.68.204.11:8080/turan40/turan40/20135
+#EXTINF:-1,USA: CNBC HD
+http://51.68.204.11:8080/turan40/turan40/20104
+#EXTINF:-1,USA: CNN
+http://51.68.204.11:8080/turan40/turan40/20111
+#EXTINF:-1,USA: CNN HD
+http://51.68.204.11:8080/turan40/turan40/20214
+#EXTINF:-1,USA: CNN HD INTERNATIONAL
+http://51.68.204.11:8080/turan40/turan40/20110
+#EXTINF:-1,USA: CNN US HD
+http://51.68.204.11:8080/turan40/turan40/20184
+#EXTINF:-1,USA: COMEDY CENTRAL
+http://51.68.204.11:8080/turan40/turan40/20090
+#EXTINF:-1,USA: COMEDY CENTRAL HD
+http://51.68.204.11:8080/turan40/turan40/20155
+#EXTINF:-1,USA: CW 11 HD
+http://51.68.204.11:8080/turan40/turan40/20112
+#EXTINF:-1,USA: CW Channel 11
+http://51.68.204.11:8080/turan40/turan40/20008
+#EXTINF:-1,USA: CW HD
+http://51.68.204.11:8080/turan40/turan40/20156
+#EXTINF:-1,USA: CW11
+http://51.68.204.11:8080/turan40/turan40/20203
+#EXTINF:-1,USA: Destination America HD
+http://51.68.204.11:8080/turan40/turan40/20073
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://51.68.204.11:8080/turan40/turan40/20080
+#EXTINF:-1,USA: DISCOVERY HD
+http://51.68.204.11:8080/turan40/turan40/20136
+#EXTINF:-1,USA: Discovery HD Showcase
+http://51.68.204.11:8080/turan40/turan40/20202
+#EXTINF:-1,USA: Discovery Investigation HD
+http://51.68.204.11:8080/turan40/turan40/20077
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://51.68.204.11:8080/turan40/turan40/20079
+#EXTINF:-1,USA: DISCOVERY VELOCITY
+http://51.68.204.11:8080/turan40/turan40/20078
+#EXTINF:-1,USA: Disney Channel HD
+http://51.68.204.11:8080/turan40/turan40/20096
+#EXTINF:-1,USA: DISNEY JR HD
+http://51.68.204.11:8080/turan40/turan40/20094
+#EXTINF:-1,USA: Disney XD HD
+http://51.68.204.11:8080/turan40/turan40/20095
+#EXTINF:-1,USA: DIY Network
+http://51.68.204.11:8080/turan40/turan40/20234
+#EXTINF:-1,USA: DW
+http://51.68.204.11:8080/turan40/turan40/20137
+#EXTINF:-1,USA: E! Network HD
+http://51.68.204.11:8080/turan40/turan40/20047
+#EXTINF:-1,USA: ESPN
+http://51.68.204.11:8080/turan40/turan40/20165
+#EXTINF:-1,USA: ESPN 1
+http://51.68.204.11:8080/turan40/turan40/20059
+#EXTINF:-1,USA: ESPN 2
+http://51.68.204.11:8080/turan40/turan40/20215
+#EXTINF:-1,USA: ESPN 2 HD
+http://51.68.204.11:8080/turan40/turan40/20050
+#EXTINF:-1,USA: ESPN 3 TRE
+http://51.68.204.11:8080/turan40/turan40/20049
+#EXTINF:-1,USA: ESPN HD
+http://51.68.204.11:8080/turan40/turan40/20157
+#EXTINF:-1,USA: ESPN NEWS
+http://51.68.204.11:8080/turan40/turan40/20048
+#EXTINF:-1,USA: ESPN News US HD
+http://51.68.204.11:8080/turan40/turan40/20183
+#EXTINF:-1,USA: ESPN U HD
+http://51.68.204.11:8080/turan40/turan40/20182
+#EXTINF:-1,USA: Fight Network / MMA Network
+http://51.68.204.11:8080/turan40/turan40/20038
+#EXTINF:-1,USA: FIGHT SPORT
+http://51.68.204.11:8080/turan40/turan40/20229
+#EXTINF:-1,USA: Fight Sport 1
+http://51.68.204.11:8080/turan40/turan40/20013
+#EXTINF:-1,USA: Fight Sport 2
+http://51.68.204.11:8080/turan40/turan40/20010
+#EXTINF:-1,USA: Fine Living
+http://51.68.204.11:8080/turan40/turan40/20201
+#EXTINF:-1,USA: FOOD NETWORK
+http://51.68.204.11:8080/turan40/turan40/20082
+#EXTINF:-1,USA: Food Network HD
+http://51.68.204.11:8080/turan40/turan40/20235
+#EXTINF:-1,USA: FOX 43
+http://51.68.204.11:8080/turan40/turan40/20216
+#EXTINF:-1,USA: FOX DEPORTES HD
+http://51.68.204.11:8080/turan40/turan40/20017
+#EXTINF:-1,USA: Fox HD
+http://51.68.204.11:8080/turan40/turan40/20128
+#EXTINF:-1,USA: Fox News
+http://51.68.204.11:8080/turan40/turan40/20116
+#EXTINF:-1,USA: FOX NEWS HD
+http://51.68.204.11:8080/turan40/turan40/20158
+#EXTINF:-1,USA: FOX NY
+http://51.68.204.11:8080/turan40/turan40/20117
+#EXTINF:-1,USA: FOX SOCCER PLUS HD
+http://51.68.204.11:8080/turan40/turan40/20016
+#EXTINF:-1,USA: FOX Sport 1
+http://51.68.204.11:8080/turan40/turan40/20037
+#EXTINF:-1,USA: Fox Sports 1 HD
+http://51.68.204.11:8080/turan40/turan40/20166
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://51.68.204.11:8080/turan40/turan40/20167
+#EXTINF:-1,USA: Fox SPORTS 506 HD
+http://51.68.204.11:8080/turan40/turan40/20217
+#EXTINF:-1,USA: FOX SPORTS ONE
+http://51.68.204.11:8080/turan40/turan40/20036
+#EXTINF:-1,USA: FOXX HD
+http://51.68.204.11:8080/turan40/turan40/20236
+#EXTINF:-1,USA: Freeform Channel
+http://51.68.204.11:8080/turan40/turan40/20122
+#EXTINF:-1,USA: FUEL HD
+http://51.68.204.11:8080/turan40/turan40/20200
+#EXTINF:-1,USA: Fuel TV HD
+http://51.68.204.11:8080/turan40/turan40/20085
+#EXTINF:-1,USA: FX HD
+http://51.68.204.11:8080/turan40/turan40/20237
+#EXTINF:-1,USA: FXM Retro
+http://51.68.204.11:8080/turan40/turan40/20084
+#EXTINF:-1,USA: FXX
+http://51.68.204.11:8080/turan40/turan40/20139
+#EXTINF:-1,USA: GRIT TV MOVIES
+http://51.68.204.11:8080/turan40/turan40/20035
+#EXTINF:-1,USA: GSN TV
+http://51.68.204.11:8080/turan40/turan40/20020
+#EXTINF:-1,USA: H2
+http://51.68.204.11:8080/turan40/turan40/20238
+#EXTINF:-1,USA: HALLMARK
+http://51.68.204.11:8080/turan40/turan40/20239
+#EXTINF:-1,USA: HALLMARK HD
+http://51.68.204.11:8080/turan40/turan40/20034
+#EXTINF:-1,USA: HBO 2 COMEDY
+http://51.68.204.11:8080/turan40/turan40/20033
+#EXTINF:-1,USA: HBO Comedy
+http://51.68.204.11:8080/turan40/turan40/20140
+#EXTINF:-1,USA: HBO East
+http://51.68.204.11:8080/turan40/turan40/20141
+#EXTINF:-1,USA: HBO Family HD
+http://51.68.204.11:8080/turan40/turan40/20019
+#EXTINF:-1,USA: HBO HD
+http://51.68.204.11:8080/turan40/turan40/20142
+#EXTINF:-1,USA: HBO SIGNATURE
+http://51.68.204.11:8080/turan40/turan40/20032
+#EXTINF:-1,USA: HBO ZONE
+http://51.68.204.11:8080/turan40/turan40/20031
+#EXTINF:-1,USA: HGTV HD
+http://51.68.204.11:8080/turan40/turan40/20199
+#EXTINF:-1,USA: HIFI
+http://51.68.204.11:8080/turan40/turan40/20240
+#EXTINF:-1,USA: HISTORY HD
+http://51.68.204.11:8080/turan40/turan40/20159
+#EXTINF:-1,USA: Investigation Discovery
+http://51.68.204.11:8080/turan40/turan40/20160
+#EXTINF:-1,USA: ION Television East HD
+http://51.68.204.11:8080/turan40/turan40/20181
+#EXTINF:-1,USA: KIDS READING TV
+http://51.68.204.11:8080/turan40/turan40/19993
+#EXTINF:-1,USA: LIFE TIME
+http://51.68.204.11:8080/turan40/turan40/20030
+#EXTINF:-1,USA: LIFETIME HD
+http://51.68.204.11:8080/turan40/turan40/20081
+#EXTINF:-1,USA: Lifetime Movie Network HD
+http://51.68.204.11:8080/turan40/turan40/20180
+#EXTINF:-1,USA: LMN HDTV
+http://51.68.204.11:8080/turan40/turan40/20001
+#EXTINF:-1,USA: MelloTV
+http://51.68.204.11:8080/turan40/turan40/20245
+#EXTINF:-1,USA: MLB HD
+http://51.68.204.11:8080/turan40/turan40/20029
+#EXTINF:-1,USA: MLB Network
+http://51.68.204.11:8080/turan40/turan40/20218
+#EXTINF:-1,USA: MSG HD
+http://51.68.204.11:8080/turan40/turan40/20179
+#EXTINF:-1,USA: MSNBC
+http://51.68.204.11:8080/turan40/turan40/20127
+#EXTINF:-1,USA: MSNBC HD
+http://51.68.204.11:8080/turan40/turan40/20219
+#EXTINF:-1,USA: MTV HD
+http://51.68.204.11:8080/turan40/turan40/20072
+#EXTINF:-1,USA: MTV LIVE
+http://51.68.204.11:8080/turan40/turan40/20071
+#EXTINF:-1,USA: MTV Rocks
+http://51.68.204.11:8080/turan40/turan40/20198
+#EXTINF:-1,USA: MTV U
+http://51.68.204.11:8080/turan40/turan40/20070
+#EXTINF:-1,USA: Music 24
+http://51.68.204.11:8080/turan40/turan40/20064
+#EXTINF:-1,USA: MY9 TV
+http://51.68.204.11:8080/turan40/turan40/20191
+#EXTINF:-1,USA: NAT GEO HD
+http://51.68.204.11:8080/turan40/turan40/20076
+#EXTINF:-1,USA: National Geographic
+http://51.68.204.11:8080/turan40/turan40/20241
+#EXTINF:-1,USA: NBA TV
+http://51.68.204.11:8080/turan40/turan40/20014
+#EXTINF:-1,USA: NBC
+http://51.68.204.11:8080/turan40/turan40/20194
+#EXTINF:-1,USA: NBC (EAST)
+http://51.68.204.11:8080/turan40/turan40/20118
+#EXTINF:-1,USA: NBC GOLF
+http://51.68.204.11:8080/turan40/turan40/20046
+#EXTINF:-1,USA: NBCSNHD
+http://51.68.204.11:8080/turan40/turan40/20168
+#EXTINF:-1,USA: NFL Network 1
+http://51.68.204.11:8080/turan40/turan40/20208
+#EXTINF:-1,USA: NFL Network 1080i
+http://51.68.204.11:8080/turan40/turan40/20130
+#EXTINF:-1,USA: NFL Network HD
+http://51.68.204.11:8080/turan40/turan40/20169
+#EXTINF:-1,USA: NFL Network HDTV 1080i
+http://51.68.204.11:8080/turan40/turan40/20000
+#EXTINF:-1,USA: NFL Now
+http://51.68.204.11:8080/turan40/turan40/20060
+#EXTINF:-1,USA: NFL REDZONE SD
+http://51.68.204.11:8080/turan40/turan40/20129
+#EXTINF:-1,USA: NHL NETWORK
+http://51.68.204.11:8080/turan40/turan40/20045
+#EXTINF:-1,USA: NHL Network(1)
+http://51.68.204.11:8080/turan40/turan40/20220
+#EXTINF:-1,USA: NHLTV NETWORK HD
+http://51.68.204.11:8080/turan40/turan40/20015
+#EXTINF:-1,USA: NICK HD (kids)
+http://51.68.204.11:8080/turan40/turan40/20089
+#EXTINF:-1,USA: NICKELODEN HD
+http://51.68.204.11:8080/turan40/turan40/20242
+#EXTINF:-1,USA: Nickelodeon
+http://51.68.204.11:8080/turan40/turan40/20093
+#EXTINF:-1,USA: NICKTOONS
+http://51.68.204.11:8080/turan40/turan40/20088
+#EXTINF:-1,USA: Nursery Rhymes (Baby Songs)
+http://51.68.204.11:8080/turan40/turan40/20190
+#EXTINF:-1,USA: OUTDOOR CHANNEL HD
+http://51.68.204.11:8080/turan40/turan40/20197
+#EXTINF:-1,USA: OWN HD (Oprah Winfrey TV)
+http://51.68.204.11:8080/turan40/turan40/19999
+#EXTINF:-1,USA: P.B.S Kids
+http://51.68.204.11:8080/turan40/turan40/20023
+#EXTINF:-1,USA: PAC-12 Arizona
+http://51.68.204.11:8080/turan40/turan40/20170
+#EXTINF:-1,USA: PAC-12 Bay Area
+http://51.68.204.11:8080/turan40/turan40/20171
+#EXTINF:-1,USA: PAC-12 Los Angeles
+http://51.68.204.11:8080/turan40/turan40/20172
+#EXTINF:-1,USA: PAC-12 Oregon
+http://51.68.204.11:8080/turan40/turan40/20173
+#EXTINF:-1,USA: PAC-12 Washington
+http://51.68.204.11:8080/turan40/turan40/20174
+#EXTINF:-1,USA: PBS Kids
+http://51.68.204.11:8080/turan40/turan40/20087
+#EXTINF:-1,USA: QVC Beauty IQ
+http://51.68.204.11:8080/turan40/turan40/19992
+#EXTINF:-1,USA: QVC Live
+http://51.68.204.11:8080/turan40/turan40/19991
+#EXTINF:-1,USA: QVC Plus
+http://51.68.204.11:8080/turan40/turan40/19990
+#EXTINF:-1,USA: Reelz HD
+http://51.68.204.11:8080/turan40/turan40/20061
+#EXTINF:-1,USA: RT DOCUMENTARY
+http://51.68.204.11:8080/turan40/turan40/20027
+#EXTINF:-1,USA: SEC Network
+http://51.68.204.11:8080/turan40/turan40/20221
+#EXTINF:-1,USA: Showtime 2
+http://51.68.204.11:8080/turan40/turan40/20144
+#EXTINF:-1,USA: Showtime 2 HD
+http://51.68.204.11:8080/turan40/turan40/20044
+#EXTINF:-1,USA: Showtime Extreme HD
+http://51.68.204.11:8080/turan40/turan40/19998
+#EXTINF:-1,USA: Showtime HD
+http://51.68.204.11:8080/turan40/turan40/20043
+#EXTINF:-1,USA: Showtime Showcase
+http://51.68.204.11:8080/turan40/turan40/19997
+#EXTINF:-1,USA: Showtime West
+http://51.68.204.11:8080/turan40/turan40/20145
+#EXTINF:-1,USA: Smile Of A Child
+http://51.68.204.11:8080/turan40/turan40/20196
+#EXTINF:-1,USA: SPIKE HD
+http://51.68.204.11:8080/turan40/turan40/20243
+#EXTINF:-1,USA: SPIKE TV
+http://51.68.204.11:8080/turan40/turan40/20107
+#EXTINF:-1,USA: Sports-Net
+http://51.68.204.11:8080/turan40/turan40/20246
+#EXTINF:-1,USA: Sportsnet 360 HD
+http://51.68.204.11:8080/turan40/turan40/20223
+#EXTINF:-1,USA: SportsNet One HD
+http://51.68.204.11:8080/turan40/turan40/20042
+#EXTINF:-1,USA: Starz Comedy
+http://51.68.204.11:8080/turan40/turan40/20147
+#EXTINF:-1,USA: Starz East
+http://51.68.204.11:8080/turan40/turan40/20041
+#EXTINF:-1,USA: Starz Edge HD
+http://51.68.204.11:8080/turan40/turan40/20040
+#EXTINF:-1,USA: Starz Encore
+http://51.68.204.11:8080/turan40/turan40/20149
+#EXTINF:-1,USA: Starz Encore East
+http://51.68.204.11:8080/turan40/turan40/20012
+#EXTINF:-1,USA: Starz Encore HD
+http://51.68.204.11:8080/turan40/turan40/20011
+#EXTINF:-1,USA: Starz Etas
+http://51.68.204.11:8080/turan40/turan40/20148
+#EXTINF:-1,USA: Starz West
+http://51.68.204.11:8080/turan40/turan40/20039
+#EXTINF:-1,USA: SYFY HD
+http://51.68.204.11:8080/turan40/turan40/20162
+#EXTINF:-1,USA: T.N.T
+http://51.68.204.11:8080/turan40/turan40/20119
+#EXTINF:-1,USA: TBS
+http://51.68.204.11:8080/turan40/turan40/20108
+#EXTINF:-1,USA: TBS HD
+http://51.68.204.11:8080/turan40/turan40/20222
+#EXTINF:-1,USA: Tennis Channel HD
+http://51.68.204.11:8080/turan40/turan40/20150
+#EXTINF:-1,USA: TENNIS HD
+http://51.68.204.11:8080/turan40/turan40/19996
+#EXTINF:-1,USA: THE FLORIDA CHANNEL
+http://51.68.204.11:8080/turan40/turan40/20189
+#EXTINF:-1,USA: The Weather Channel
+http://51.68.204.11:8080/turan40/turan40/20004
+#EXTINF:-1,USA: TLC
+http://51.68.204.11:8080/turan40/turan40/20083
+#EXTINF:-1,USA: TLC HD
+http://51.68.204.11:8080/turan40/turan40/20175
+#EXTINF:-1,USA: TNT HD
+http://51.68.204.11:8080/turan40/turan40/20163
+#EXTINF:-1,USA: Toonami Aftermath
+http://51.68.204.11:8080/turan40/turan40/20086
+#EXTINF:-1,USA: TRAVEL CHANNEL
+http://51.68.204.11:8080/turan40/turan40/20075
+#EXTINF:-1,USA: TRU TV
+http://51.68.204.11:8080/turan40/turan40/19995
+#EXTINF:-1,USA: TRUE MOVIES
+http://51.68.204.11:8080/turan40/turan40/20026
+#EXTINF:-1,USA: TSN 1
+http://51.68.204.11:8080/turan40/turan40/20224
+#EXTINF:-1,USA: TSN 3*
+http://51.68.204.11:8080/turan40/turan40/20226
+#EXTINF:-1,USA: TSN 4 HD
+http://51.68.204.11:8080/turan40/turan40/20227
+#EXTINF:-1,USA: Tsn-Sport 1 HD
+http://51.68.204.11:8080/turan40/turan40/20055
+#EXTINF:-1,USA: Tsn-Sport 2 HD
+http://51.68.204.11:8080/turan40/turan40/20054
+#EXTINF:-1,USA: Tsn-Sport 3 HD
+http://51.68.204.11:8080/turan40/turan40/20053
+#EXTINF:-1,USA: Tsn-Sport 4 HD
+http://51.68.204.11:8080/turan40/turan40/20052
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://51.68.204.11:8080/turan40/turan40/20051
+#EXTINF:-1,USA: TV SERIES
+http://51.68.204.11:8080/turan40/turan40/20025
+#EXTINF:-1,USA: USA Network
+http://51.68.204.11:8080/turan40/turan40/20120
+#EXTINF:-1,USA: USA Network HD
+http://51.68.204.11:8080/turan40/turan40/20244
+#EXTINF:-1,USA: Versus HD
+http://51.68.204.11:8080/turan40/turan40/20176
+#EXTINF:-1,USA: Vevo HD
+http://51.68.204.11:8080/turan40/turan40/20065
+#EXTINF:-1,USA: VH1 Classic
+http://51.68.204.11:8080/turan40/turan40/20195
+#EXTINF:-1,USA: VH1 HD
+http://51.68.204.11:8080/turan40/turan40/20069
+#EXTINF:-1,USA: Viceland HD
+http://51.68.204.11:8080/turan40/turan40/20105
+#EXTINF:-1,USA: WEATHERNATION
+http://51.68.204.11:8080/turan40/turan40/20188
+#EXTINF:-1,USA: WGN America HD
+http://51.68.204.11:8080/turan40/turan40/20178
+#EXTINF:-1,USA: WGN News Chicago
+http://51.68.204.11:8080/turan40/turan40/20187
+#EXTINF:-1,USA: WWE HD
+http://51.68.204.11:8080/turan40/turan40/20177
+#EXTINF:-1,USA: WWE Network
+http://51.68.204.11:8080/turan40/turan40/19994
+#EXTINF:-1,USA: XITE HD
+http://51.68.204.11:8080/turan40/turan40/20068
+#EXTINF:-1,USA: XITE Rock HD
+http://51.68.204.11:8080/turan40/turan40/20066
+#EXTINF:-1,USA: XITE Vibe HD
+http://51.68.204.11:8080/turan40/turan40/20067
+#EXTINF:-1,USA: Yes Network
+http://51.68.204.11:8080/turan40/turan40/20186
+#EXTINF:-1,USA: YTV
